@@ -1,5 +1,16 @@
 # fitnfun-side
 
+> **📢 Public Mirror Notice**
+> 這是 `fitnfun-side` 的公開鏡像版本（**public mirror**），已將以下敏感資產移除：
+> - 內部教學文件 (`教學/`)
+> - 內部 OpenSpec 變更規格 (`openspec/`)
+> - 真實師資照片與個資 (`demo/asset/`, `demo/public/images/instructors/`)
+> - 內部會議 PDF
+>
+> 原始 private repo：[`YYxDeveloper/fitnfun-side`](https://github.com/YYxDeveloper/fitnfun-side)
+>
+> **Live Demo**: https://yyxdeveloper.github.io/fitnfun-side-public/
+
 基於 **Strapi 5** 的 Headless CMS 後端，搭配 **Vite + React** 前端 Demo（`躍齡社區師資`）。
 
 ## Services
