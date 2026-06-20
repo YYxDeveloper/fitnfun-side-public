@@ -1,0 +1,80 @@
+{
+  "kind": "collectionType",
+  "collectionName": "instructors",
+  "info": {
+    "singularName": "instructor",
+    "pluralName": "instructors",
+    "displayName": "社區師資",
+    "description": "社區師資資料，支援個人教練與機構"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": ["individual", "organization"],
+      "required": true,
+      "default": "individual"
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 255
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "course_categories": {
+      "type": "json",
+      "default": []
+    },
+    "instructor_sources": {
+      "type": "json",
+      "default": []
+    },
+    "locations": {
+      "type": "json",
+      "default": []
+    },
+    "keywords": {
+      "type": "json",
+      "default": []
+    },
+    "teaching_domain": {
+      "type": "richtext"
+    },
+    "target_audience": {
+      "type": "richtext"
+    },
+    "service_highlights": {
+      "type": "richtext"
+    },
+    "contact_info": {
+      "type": "json",
+      "default": {}
+    },
+    "review_status": {
+      "type": "enumeration",
+      "enum": ["draft", "pending", "published", "rejected"],
+      "required": true,
+      "default": "draft"
+    },
+    "review_note": {
+      "type": "text"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

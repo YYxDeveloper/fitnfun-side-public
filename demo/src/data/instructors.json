@@ -1,0 +1,199 @@
+[
+  {
+    "type": "individual",
+    "name": "林書豪",
+    "title": "籃球體能教練",
+    "avatar": null,
+    "course_categories": [
+      "basketball",
+      "fitness"
+    ],
+    "instructor_sources": [
+      "community",
+      "school"
+    ],
+    "locations": [
+      "台北市"
+    ],
+    "keywords": [
+      "籃球",
+      "體能",
+      "青少年",
+      "一對一"
+    ],
+    "teaching_domain": "專注於青少年籃球體能訓練與投籃姿勢矯正，擅長結合遊戲化訓練提升學員興趣。",
+    "target_audience": "8-18 歲想提升籃球技巧與體能的學員。",
+    "service_highlights": "- 客製化訓練菜單\n- 投籃動作分析\n- 體能檢測報告",
+    "contact_info": {
+      "電話": "0912-345-678",
+      "email": "[email protected]",
+      "line": "@coachlin",
+      "website": "https://coachlin.example.com"
+    },
+    "review_status": "published"
+  },
+  {
+    "type": "individual",
+    "name": "陳雅琪",
+    "title": "瑜珈老師",
+    "avatar": null,
+    "course_categories": [
+      "yoga",
+      "stretching"
+    ],
+    "instructor_sources": [
+      "studio",
+      "community"
+    ],
+    "locations": [
+      "台北市"
+    ],
+    "keywords": [
+      "瑜珈",
+      "皮拉提斯",
+      "產後修復",
+      "舒緩"
+    ],
+    "teaching_domain": "擁有 10 年瑜珈教學經驗，擅長孕產婦瑜伽與深層放鬆課程。",
+    "target_audience": "孕婦、產後媽媽、辦公族。",
+    "service_highlights": "- 小班制（最多 6 人）\n- 客製化課表\n- 提供器材租借",
+    "contact_info": {
+      "電話": "0923-111-222",
+      "email": "[email protected]",
+      "line": "@yogi_chen"
+    },
+    "review_status": "published"
+  },
+  {
+    "type": "individual",
+    "name": "Marcus Wu",
+    "title": "CrossFit 教練",
+    "avatar": null,
+    "course_categories": [
+      "crossfit",
+      "strength"
+    ],
+    "instructor_sources": [
+      "gym",
+      "community"
+    ],
+    "locations": [
+      "新北市"
+    ],
+    "keywords": [
+      "CrossFit",
+      "肌力",
+      "減脂",
+      "健力"
+    ],
+    "teaching_domain": "CrossFit Level 3 認證教練，專精肌力與體能同步提升。",
+    "target_audience": "想突破訓練瓶頸的進階健身者。",
+    "service_highlights": "- 1v1 教練課\n- 每週團課 5 堂\n- 飲食規劃諮詢",
+    "contact_info": {
+      "電話": "0935-555-888",
+      "email": "[email protected]"
+    },
+    "review_status": "pending",
+    "review_note": "證照待補上傳"
+  },
+  {
+    "type": "organization",
+    "name": "動感星球工作室",
+    "title": "全方位運動課程機構",
+    "avatar": null,
+    "course_categories": [
+      "dance",
+      "fitness",
+      "yoga",
+      "kids"
+    ],
+    "instructor_sources": [
+      "studio",
+      "school",
+      "community"
+    ],
+    "locations": [
+      "台北市"
+    ],
+    "keywords": [
+      "有氧",
+      "街舞",
+      "Zumba",
+      "兒童體適能"
+    ],
+    "teaching_domain": "提供 3-65 歲全年齡運動課程，師資團隊超過 15 位專業教練。",
+    "target_audience": "家庭、銀髮族、上班族、親子。",
+    "service_highlights": "- 40+ 種課程\n- 企業包班\n- 親子共課方案",
+    "contact_info": {
+      "電話": "02-2345-6789",
+      "email": "[email protected]",
+      "website": "https://planet-fit.example.com"
+    },
+    "review_status": "published"
+  },
+  {
+    "type": "individual",
+    "name": "張佩珊",
+    "title": "拳擊體適能教練",
+    "avatar": null,
+    "course_categories": [
+      "boxing",
+      "fitness"
+    ],
+    "instructor_sources": [
+      "gym",
+      "community"
+    ],
+    "locations": [
+      "台中市"
+    ],
+    "keywords": [
+      "拳擊",
+      "防身",
+      "減脂",
+      "女性專屬"
+    ],
+    "teaching_domain": "前國家隊選手，專長拳擊有氧與女性自我防身課程。",
+    "target_audience": "想學防身、減脂、釋放壓力的女性學員。",
+    "service_highlights": "- 女性限定班\n- 30 天減脂計畫\n- 1v1 私教",
+    "contact_info": {
+      "電話": "0911-222-333",
+      "line": "@coach_chang"
+    },
+    "review_status": "published"
+  },
+  {
+    "type": "organization",
+    "name": "FitLab 科學訓練中心",
+    "title": "科學化肌力訓練機構",
+    "avatar": null,
+    "course_categories": [
+      "strength",
+      "physio",
+      "rehab"
+    ],
+    "instructor_sources": [
+      "clinic",
+      "gym"
+    ],
+    "locations": [
+      "高雄市"
+    ],
+    "keywords": [
+      "肌力",
+      "物理治療",
+      "動作控制",
+      "運動科學"
+    ],
+    "teaching_domain": "結合物理治療與肌力訓練，協助學員從復健回歸運動表現。",
+    "target_audience": "有舊傷困擾、想安全回歸訓練的運動愛好者。",
+    "service_highlights": "- 動作檢測評估\n- 客製化訓練課表\n- 物理治療師駐點",
+    "contact_info": {
+      "電話": "07-555-1212",
+      "email": "[email protected]",
+      "website": "https://fitlab.example.com"
+    },
+    "review_status": "draft",
+    "review_note": "等待完整課表上架"
+  }
+]
